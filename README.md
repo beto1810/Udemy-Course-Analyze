@@ -59,7 +59,7 @@
 ## A. [Data Exploration and Cleansing](https://github.com/beto1810/Udemy-Course-Analyze/blob/main/A.Data%20Exploration%20%26%20Cleansing.md)
 
 
-## B. [Analysis]()
+## B. [Analysis](https://github.com/beto1810/Udemy-Course-Analyze/blob/main/B.Analysis.md)
 
 
 ***
@@ -69,6 +69,7 @@
   - Filter
   - JOINS
   - CTE's
+  - Window Function
 - POWER BI
   - Visualize
   - Analyze
