@@ -34,8 +34,8 @@
 
 **Table : udemy_course**
 
-|course_id|course_title|is_paid|price|num_subscribers|num_reviews|num_lectures|level|content_duration|published_timestamp|subject|
-|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|course_id|course_title|url|is_paid|price|num_subscribers|num_reviews|num_lectures|level|content_duration|published_timestamp|subject|
+|:----|:-----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
 1070968|Ultimate Investment Banking Course.|https://www.udemy.com/ultimate-investment-banking-course/|TRUE|200|2147|23|51|All Levels|1.5|1/19/2017 3:58|Business Finance|
 1113822|Complete GST Course & Certification - Grow Your CA Practice|https://www.udemy.com/goods-and-services-tax/|TRUE|75|2792|923|274|All Levels|39|3/9/2017 23:34|Business Finance|
 1006314|Financial Modeling for Business Analysts and Consultants|https://www.udemy.com/financial-modeling-for-business-analysts-and-consultants/|TRUE|45|2174|74|51|Intermediate Level|2.5|12/20/2016 2:26|Business Finance|
