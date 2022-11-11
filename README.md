@@ -70,9 +70,10 @@
   - JOINS
   - CTE's
   - Window Function
+  - Import CSV File
 - POWER BI
   - Visualize
   - Analyze
-  
+  - Import CSV File and Transform data
 
 
