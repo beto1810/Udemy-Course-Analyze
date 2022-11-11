@@ -56,7 +56,7 @@
 4.	Present the information that the candidate discovered from the dataset
 5.	 If possible, give some follow-up recommendations. 
 
-## A. [Data Exploration and Cleansing]()
+## A. [Data Exploration and Cleansing](https://github.com/beto1810/Udemy-Course-Analyze/blob/main/A.Data%20Exploration%20%26%20Cleansing.md)
 
 
 ## B. [Analysis]()
