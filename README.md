@@ -11,7 +11,7 @@
 - [:bookmark_tabs:Example Datasets](#bookmark_tabsexample-datasets)
 - [:triangular_flag_on_post: The Requirement](#triangular_flag_on_post-the-final-test-requirements)
 - [A. Data Exploration and Cleansing](#a-data-exploration-and-cleansing)
-- [B. Interest Analysis](#b-analysis)
+- [B. Analysis](#b-analysis)
 
 - [📃 What can you practice with this case study?](#what-can-you-practice-with-this-case-study)
 
