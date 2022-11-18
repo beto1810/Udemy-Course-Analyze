@@ -101,7 +101,7 @@ FROM udemy_courses
 
 ![image](https://user-images.githubusercontent.com/101379141/201280736-17888348-4bca-4cfd-8438-0527b208ff9a.png)
 
-**3.Add new measure dax - To calculate income different between quarter ?
+**3.Add new measure dax - To calculate income different between quarter ?**
 
 ![image](https://user-images.githubusercontent.com/101379141/201280844-907938f2-f60d-4056-90be-56bc141438c9.png)
 
