@@ -20,12 +20,12 @@
 
 - There have been 3672 courses opened with more than 12 million registered students.
 
-- In total, 147 thousand lessons have been provided to students and more than 574 thousand reviews have been received within 7 years of operation.
+- In total, 147 thousand lessons have been provided to students and more than 574 thousand reviews have been received within years of operation.
 
 - Udemy's total revenue for the period 2011-2017 was $882 million.
 
 
-- With more than 3,000 courses in 5 years, from the 'Courses By year' chart we can see that the courses have increased quite steadily in the first 7 years (2011-2017). 
+- With more than 3,000 courses in 5 years, from the 'Courses By year' chart we can see that the courses have increased quite steadily. 
 - However, in the period after 2015, the number of classes still increased in number, but the number of students participating, the number of reviews and total revenue by year experienced a decreasing. 
 
 -> This could be because the courses are going down in quality, so the number of participants and reviews are dropping significantly, or it could be that the more popular emergence of other live learning platforms like Coursera has affected. 
