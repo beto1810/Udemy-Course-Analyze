@@ -21,7 +21,7 @@
 
 - This is the Final Test Exam of 'Data for Everyone' course of MINDX TECHNOLOGY SCHOOL.
 
-- The requirement of Text is cleaning, analyzing, doing visualization with the raw file data (udemy.csv).
+- The requirement of Test is cleaning, analyzing, doing visualization with the raw file data (udemy.csv).
   - I would use the SQL to clear and filter the clean data for analyzing test.
   - Power BI would be the visualization tool for me to visualize and analyze the clean data.
   - Finally, I would give the comments about these data through graphs of Power BI.
